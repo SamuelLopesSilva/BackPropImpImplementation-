@@ -1,2 +1,2 @@
-# BackProp Implementation
-A simple implementation of back propagation algorithm in python
+# Simple Multilayer Perceptron
+A Simple MultilayerPerceptron Neural Network Algorithm in Python
